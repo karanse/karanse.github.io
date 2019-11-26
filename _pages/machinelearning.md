@@ -1,10 +1,10 @@
 ---
 layout: posts
-permalink: /data-wrangling/
-title: "Data Wrangling projects"
+permalink: /projects/
+title: "Data Science Projects"
 author_profile: true
 header:
-  image: "/images/fort point.png"
+  image: "/images/plush-design-studio-l3N9Q27zULw-unsplash.png"
 ---
 
 
