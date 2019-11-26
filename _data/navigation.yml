@@ -6,6 +6,8 @@ main:
     url: /blog/
   - title: "Data Science Projects"
     url: /data-science-projects/
+  - title: "Visualization"
+    url: https://public.tableau.com/profile/sema.karan#!/
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
