@@ -2,11 +2,13 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/thanos-pal-gu3l7cOQ4S4-unsplash.jpg"
+  image: "/images/about.jpg"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   overlay_filter: 0.5
 ---
 
-I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
+Hi There,
 
-Etc, etc, etc
+Thanks for your time to read about me!
+
+I’m Sema who has a passion to learn and grow with data, a data analyst in an online travel company.
