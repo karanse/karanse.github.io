@@ -5,6 +5,6 @@ title: "Blog"
 author_profile: true
 header:
   image: "/images/pencils.jpg"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "[**Photo by Plush Design Studio on Unsplash**](https://unsplash.com/photos/l3N9Q27zULw)""
 ---
 
