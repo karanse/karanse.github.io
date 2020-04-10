@@ -4,6 +4,7 @@ permalink: /blog/
 title: "Blog"
 author_profile: true
 header:
-  image: "/images/chris-lawton-5IHz5WhosQE-unsplash.jpg"
+  image: "/images/pencils.jpg"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
